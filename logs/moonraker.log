@@ -556,3 +556,8 @@ Traceback (most recent call last):
 moonraker.utils.ServerError: Metadata not available for <.thumbs/Whistle_23m_0,16mm_205C_PLA_ENDER3BLTOUCH-400x400.png>
 2023-07-08 08:40:24,719 [job_state.py:_status_update()] - Job Started: Whistle_23m_0,16mm_205C_PLA_ENDER3BLTOUCH.gcode
 2023-07-08 08:41:21,387 [job_state.py:_status_update()] - Job Started: Whistle_23m_0,16mm_205C_PLA_ENDER3BLTOUCH.gcode
+2023-07-08 09:16:46,826 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_QWS3R8
+2023-07-08 09:17:29,747 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_GxgvOZ
+2023-07-08 09:17:29,755 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_wMUUd0
+2023-07-08 09:17:29,759 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_S1Wa23
+2023-07-08 09:17:29,775 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_yVu7J3

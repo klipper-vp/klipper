@@ -13158,3 +13158,6 @@ gi.repository.GLib.GError: g-file-error-quark: Falha ao abrir o arquivo “/home
 2023-07-08 08:41:21,389 [printer.py:change_state()] - Adding callback for state: printing
 2023-07-08 08:41:21,422 [screen.py:attach_panel()] - Current panel hierarchy: job_status
 2023-07-08 08:41:21,423 [job_status.py:set_state()] - Changing job_status state from 'cancelled' to 'printing'
+2023-07-08 09:05:53,649 [job_status.py:set_state()] - Changing job_status state from 'printing' to 'complete'
+2023-07-08 09:05:56,153 [printer.py:change_state()] - Changing state from 'printing' to 'ready'
+2023-07-08 09:05:56,154 [printer.py:change_state()] - Adding callback for state: ready
